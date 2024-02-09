@@ -45,7 +45,7 @@ person1.FirstName = "MUSTAFA";
 person1.LastName = "KAVUŞDU";
 person1.DateOfBirthYear = 1977;
 person1.NationalIdentity = 123;
-
+//test 123
 
 foreach (string sehir in sehirler1)
 {
