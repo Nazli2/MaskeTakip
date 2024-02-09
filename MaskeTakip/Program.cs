@@ -47,6 +47,14 @@ person1.DateOfBirthYear = 1977;
 person1.NationalIdentity = 123;
 //test 123
 
+Person person2 = new Person();
+person2.FirstName = "NAZLI";
+person2.LastName = "ŞAHİN";
+person2.DateOfBirthYear = 1998;
+person2.NationalIdentity = 1234;
+
+
+
 foreach (string sehir in sehirler1)
 {
     Console.WriteLine(sehir);
